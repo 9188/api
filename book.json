@@ -1,0 +1,68 @@
+{
+    "title": "9188",
+    "author": "Mr.Wang <1617634@qq.com>",
+    "description": "9188cli api介绍",
+    "language" : "zh-hans",
+    "plugins": [
+        "theme-comscore",
+        "-lunr", "-search", 
+        "splitter","-sharing"
+        ,"-highlight","tbfed-pagefooter","expandable-chapters-small","sectionx","3-ba","donate","anchors"
+        ,"edit-link","favicon"
+    ],
+    "pluginsConfig":{
+        "theme-default": {
+            "showLevel": true
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook", "google", "twitter",
+                    "weibo", "instapaper"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 9188.goup",
+            "modify_format": "YYYY-MM-DD HH:mm"
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "3-ba": {
+            "token": "xxxxxxxx"
+        },
+        "donate": {
+            "wechat": "http://ov0zo91tq.bkt.clouddn.com/static/wxchat.png",
+            "alipay": "http://ov0zo91tq.bkt.clouddn.com/static/alipay.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        
+        "edit-link": {
+            "base": "http://9188.com",
+            "label": "大圣网"
+        },
+        "favicon": {
+            "shortcut": "assets/images/favicon.ico",
+            "bookmark": "assets/images/favicon.ico",
+            "appleTouch": "assets/images/apple-touch-icon.png",
+            "appleTouchMore": {
+                "120x120": "assets/images/apple-touch-icon-120x120.png",
+                "180x180": "assets/images/apple-touch-icon-180x180.png"
+            }
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Wangwei's Blog": "http://9188.group"
+        }
+    }
+    
+}
