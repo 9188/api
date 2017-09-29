@@ -1,9 +1,2 @@
-# apiasdfasdf
+# Introduction
 
-```
-function* a(){
-  yeild call('')
-  
-}
-
-```
