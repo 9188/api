@@ -16,14 +16,13 @@
 
 ## 目录结构
     
-    ├── build                       - webpack 配置 （不动）
+    ├── build                       - webpack 配置
     |
-    ├── config                      - webpack 配置 全局变量（可改动）
+    ├── config                      - webpack 配置 全局变量
     │
     ├── dist                        - 通过编译生成的目录
     │
     ├── src                         - 项目入口
-    │   ├── assets                  - 静态图片
     │   ├── common                  - 公共方法
     │       ├── ajax.js             - axios 请求类
     |       ├── fetch.js            - fetch 请求类可以和上面二选一
@@ -44,6 +43,9 @@
     │       ├── css                 - 基本css
     |           ├── common.styl     - 网站通用样式
     │           ├── mixin.styl      - 网站通用混合宏
+    │       ├── img                 - 网站图片
+    │   ├── App.vue                 - 网站顶层页面
+    │   ├── main.js                 - vue入口
     │
     ├── .babelrc                    - babel 配置文件
     │
