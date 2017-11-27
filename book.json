@@ -46,7 +46,7 @@
         },
         
         "edit-link": {
-            "base": "http://9188.com",
+            "base": "http://9188.group/",
             "label": "大圣网"
         },
         "favicon": {
@@ -61,7 +61,7 @@
     },
     "links": {
         "sidebar": {
-            "9188": "http://blog.9188.group"
+            "9188": "http://9188.group"
         }
     }
     
