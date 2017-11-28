@@ -11,10 +11,6 @@
     * [React 项目](H5/react.md)
     * [Vue 项目](H5/vue.md)
     
-* [PC端项目](PC/README.md)
-    * [React 项目](PC/react.md)
-    * [Vue 项目](PC/vue.md)
-
 * [后台](admin/README.md)
     * [前言](admin/introduction.md)
     * [第三方蓝缘通用后台](admin/lyadmin.md)

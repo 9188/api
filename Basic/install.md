@@ -1,4 +1,4 @@
-# Installation
+# 安装
 
 
 ``` bash
